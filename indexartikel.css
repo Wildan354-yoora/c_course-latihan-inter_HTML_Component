@@ -45,7 +45,7 @@
 .navbar {
     position: absolute;
     top: 0px;
-    left: 0px;
+    left: calc(50% - 720px);
     box-shadow: var(--shadow-m);
     background-color: var(--primary-purple-100);
     width: 1440px;
@@ -132,6 +132,32 @@
     font-size: var(--button-14-size);
     color: var(--m3-sys-light-on-surface-variant);
 }
+.search-container {
+    display: flex;
+    align-items: center;
+}
+
+#search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 500px;
+}
+
+#search-button {
+    padding: 10px 15px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007BFF;
+    color: white;
+    cursor: pointer;
+}
+
+#search-button:hover {
+    background-color: #0056b3;
+}
+
 .lorem-ipsum3 {
     position: relative;
     line-height: 19px;

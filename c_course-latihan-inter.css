@@ -1,0 +1,1117 @@
+.c_course-latihan-inter-frame {
+  width: 100%;
+  overflow: hidden;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #fff;
+}
+
+.c_course-latihan-inter-instance {
+  gap: 232px;
+  width: 100%;
+  display: flex;
+  padding: 10px 150px;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-frame01 {
+  width: 100%;
+  max-width: 99px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text01 {
+  color: #121212;
+  font-size: 40px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 700;
+  line-height: 44px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame02,
+.c_course-latihan-inter-instance01 {
+  width: 100%;
+  max-width: 302px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-frame02 {
+  gap: 20px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-instance02 {
+  width: 100%;
+  max-width: 79px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text02 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text03 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance03 {
+  width: 100%;
+  max-width: 85px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text04 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text05 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance04 {
+  width: 100%;
+  max-width: 98px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text06 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text07 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame03 {
+  gap: 11px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame03,
+.c_course-latihan-inter-instance05 {
+  width: 100%;
+  max-width: 36px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-instance06 {
+  gap: 232px;
+  width: 100%;
+  display: flex;
+  padding: 10px 150px;
+  position: relative;
+  max-width: 1440px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #fb6816;
+}
+
+.c_course-latihan-inter-frame04 {
+  width: 100%;
+  max-width: 99px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text08 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text09 {
+  color: ivory;
+  font-size: 40px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 700;
+  line-height: 44px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame05,
+.c_course-latihan-inter-frame06 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame05 {
+  gap: 176px;
+  padding: 0 156px;
+  max-width: 1440px;
+  align-items: center;
+  border-radius: 0 0 60px 60px;
+  background-color: #a49af6;
+}
+
+.c_course-latihan-inter-frame06 {
+  gap: 32px;
+  max-width: 476px;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-frame07 {
+  width: 100%;
+  max-width: 346px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-frame08 {
+  gap: 14px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame08,
+.c_course-latihan-inter-instance07 {
+  width: 100%;
+  max-width: 346px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text10 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text11 {
+  color: #000;
+  font-size: 32px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 38px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame09 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 346px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+}
+
+.c_course-latihan-inter-text12 {
+  width: 100%;
+  max-width: 347px;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text13 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 400;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame10,
+.c_course-latihan-inter-frame11 {
+  gap: 18px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 476px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame11 {
+  gap: 4px;
+  padding: 15px 17px;
+  max-width: 211px;
+  align-items: flex-start;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+  background-color: ivory;
+}
+
+.c_course-latihan-inter-text14 {
+  width: 100%;
+  max-width: 100%;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text15 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame12 {
+  gap: 4px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 177px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame13,
+.c_course-latihan-inter-instance08 {
+  width: 100%;
+  max-width: 24px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-frame13 {
+  gap: 10px;
+  display: flex;
+  padding: 10px;
+  position: relative;
+  max-width: 150px;
+  align-items: center;
+  justify-content: center;
+}
+
+.c_course-latihan-inter-text16 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text17 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 400;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance09 {
+  gap: 4.5px;
+  width: 100%;
+  display: flex;
+  padding: 5px 14px;
+  position: relative;
+  max-width: 88px;
+  box-sizing: border-box;
+  align-items: center;
+  border-radius: 11px 11px 11px 11px;
+  justify-content: center;
+  background-color: #fb6816;
+}
+
+.c_course-latihan-inter-instance10 {
+  width: 100%;
+  overflow: hidden;
+  max-width: 11px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text18 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: center;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text19 {
+  color: ivory;
+  font-size: 7.875px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: center;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 11px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame14 {
+  gap: 8px;
+  width: 100%;
+  display: flex;
+  padding: 15px 17px;
+  position: relative;
+  max-width: 247px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: ivory;
+}
+
+.c_course-latihan-inter-text20 {
+  width: 100%;
+  max-width: 216px;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text21 {
+  color: #121212;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 400;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame15 {
+  gap: 8px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 131px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text22 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text23 {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 400;
+  line-height: 19px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame16,
+.c_course-latihan-inter-frame17 {
+  width: 100%;
+  max-width: 476px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame17 {
+  gap: 42px;
+  display: flex;
+  position: relative;
+  max-width: 1141px;
+}
+
+.c_course-latihan-inter-frame18 {
+  width: 100%;
+  max-width: 177px;
+  box-sizing: border-box;
+}
+
+.c_course-latihan-inter-text24 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text25 {
+  color: #000;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame19 {
+  gap: 31px;
+  width: 100%;
+  display: flex;
+  position: relative;
+  flex-wrap: wrap;
+  max-width: 1141px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame20,
+.c_course-latihan-inter-instance11 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame20 {
+  border-top: 1px solid #121212;
+  align-items: flex-start;
+  border-left: 1px solid #121212;
+  border-right: 1px solid #121212;
+  border-bottom: 1px solid #121212;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+  background-color: ivory;
+}
+
+.c_course-latihan-inter-instance11 {
+  gap: 10px;
+  padding: 0 24px;
+  border-top: 1px solid #000;
+  align-items: center;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text26 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text27 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance12 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text28 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text29 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame21,
+.c_course-latihan-inter-instance13 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  border-top: 1px solid #000;
+  box-sizing: border-box;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame21 {
+  align-items: flex-start;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-instance13 {
+  gap: 10px;
+  padding: 0 24px;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text30 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text31 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance14 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text32 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text33 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame22,
+.c_course-latihan-inter-instance15 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame22 {
+  border-top: 1px solid #000;
+  align-items: flex-start;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-instance15 {
+  gap: 10px;
+  padding: 0 24px;
+  border-top: 1px solid #121212;
+  align-items: center;
+  border-left: 1px solid #121212;
+  border-right: 1px solid #121212;
+  border-bottom: 1px solid #121212;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text34 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text35 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance16 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text36 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text37 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame23,
+.c_course-latihan-inter-instance17 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  border-top: 1px solid #121212;
+  box-sizing: border-box;
+  border-left: 1px solid #121212;
+  border-right: 1px solid #121212;
+  border-bottom: 1px solid #121212;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame23 {
+  align-items: flex-start;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-instance17 {
+  gap: 10px;
+  padding: 0 24px;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text38 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text39 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance18 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text40 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text41 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame24,
+.c_course-latihan-inter-instance19 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame24 {
+  border-top: 1px solid #000;
+  align-items: flex-start;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-bottom: 1px solid #000;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-instance19 {
+  gap: 10px;
+  padding: 0 24px;
+  border-top: 1px solid #121212;
+  align-items: center;
+  border-left: 1px solid #121212;
+  border-right: 1px solid #121212;
+  border-bottom: 1px solid #121212;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text42 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text43 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance20 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text44 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text45 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-frame25,
+.c_course-latihan-inter-instance21 {
+  width: 100%;
+  display: flex;
+  position: relative;
+  max-width: 555px;
+  border-top: 1px solid #121212;
+  box-sizing: border-box;
+  border-left: 1px solid #121212;
+  border-right: 1px solid #121212;
+  border-bottom: 1px solid #121212;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-frame25 {
+  align-items: flex-start;
+  border-radius: 10px 10px 10px 10px;
+  flex-direction: column;
+}
+
+.c_course-latihan-inter-instance21 {
+  gap: 10px;
+  padding: 0 24px;
+  align-items: center;
+  border-radius: 10px 10px 0 0;
+  background-color: #4c37ee;
+}
+
+.c_course-latihan-inter-text46 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text47 {
+  color: ivory;
+  font-size: 24px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 26px;
+  margin-bottom: 0;
+  letter-spacing: 0;
+  text-transform: none;
+}
+
+.c_course-latihan-inter-instance22 {
+  gap: 10px;
+  width: 100%;
+  display: flex;
+  padding: 0 24px;
+  position: relative;
+  max-width: 555px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.c_course-latihan-inter-text48 {
+  width: 100%;
+  max-width: auto;
+  margin-top: 0;
+  min-height: auto;
+  text-align: left;
+  margin-bottom: 0;
+}
+
+.c_course-latihan-inter-text49 {
+  color: #121212;
+  font-size: 18px;
+  font-style: normal;
+  margin-top: 0;
+  text-align: left;
+  font-family: "Plus Jakarta Sans",sans-serif;
+  font-weight: 600;
+  line-height: 22px;
+  margin-bottom: 0;
+  letter-spacing: -1px;
+  text-transform: none;
+}
